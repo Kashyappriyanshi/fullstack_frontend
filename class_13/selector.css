@@ -1,0 +1,20 @@
+*{
+    color:darkcyan;
+    margin:0;
+    padding:0;
+}
+/* * is used for making padding and margin0px also for switching to box sizing as border box. */
+h2{
+    color:blanchedalmond;
+}
+div{
+    padding:40px;
+    border:4px solid brown;
+    background-color:darkslateblue;
+    margin: 20px auto;
+    width:200px;
+}
+.bg-black{
+    background-color:black;
+}
+/* ;chaining in css: ".bg-green .explanation"  here the space(descending selector) between text and explanation selects smone inside that class. this is a topic of compouding in css. */

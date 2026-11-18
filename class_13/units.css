@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+
+}
+body{
+    width:600px
+}
+.item-1{
+    background-color:orange;
+    height: 300px;
+    width: 500px;
+}
+.item-2{
+    background-color: green;
+    height:300px;
+    width:60%
+}
+.item-3{
+    width:60vw;
+    background-color: aqua;
+    height:300px;
+}
+
+/* px ki value zoom ke hisab se change ho skti ahi but vw and % is related to the screen. */

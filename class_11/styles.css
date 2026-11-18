@@ -1,0 +1,33 @@
+h1{
+    color:brown;
+    background-color: burlywood;
+}
+p{
+    color:blue;
+    background-color:green;
+    font-family: "Playwrite CU Guides", cursive;
+  font-weight: 400;
+  font-style: normal;
+    /* font-size :200px; */
+
+}
+#middle{
+    background-color:aqua;
+    text-decoration: underline overline;
+}
+.text{
+    background-color:red;
+    width:200px
+}
+span{
+    background-color: cadetblue;
+    font-family: cursive;
+}
+a{
+    text-decoration: none;
+    font-family:"Brush Scripk;t MT";}
+
+/* span will not follow inline
+text-decoration me underline vagera aata hai and 
+font-style me bold italics vagera aata hai */
+
